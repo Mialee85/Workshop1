@@ -77,4 +77,19 @@ Sie können das Etherpad frei verwenden und gerne ihre Notizen hier eintragen un
 - Wiederholung von Inhalten von bereits existierenden Veranstaltungen.
 - ?????
 
-## 
+## SWOT
+Stärken: Modul anpassbar und individuell ausformbar | Abschluss mit Testat
+Schwächen: Wahrscheinlich gekoppelt an Vorlesungszeitraum | Teilweise hoher Aufwand für Teilnehmer vor Ort zu sein
+Chancen: Modul anpassbar und individuell ausformbar
+Risiken: Zieht Ressourcen vom Schreibprozess der Bachelorarbeit ab, dadurch geringe Akzeptanz
+
+## Design Thinking
+### Probleme:
+- Großteil der Studierenden aus dem Dualem Studiengang hat bereits die BA angemeldet und befindet sich bereits im Schreibprozess
+- 3 Workshops sind auf 3 Tage aufgeteilt
+- Studenten haben teilweise 1,5 Stunden Fahrtzeit (einfache Strecke)
+
+### Mögliche Lösungen:
+- Aufbrechen der Struktur von BA + 3 Workshops im letztem Semester. Workshops werden auf die 3 vorhergehenden Semester aufgeteilt, bzw. Workshop 1 und 3 auf die beiden vorhergehenden Semester und Workshop 2 (Wissenschaftliches Schreiben) direkt im Anschluss an das WS gelegt in die eigentlich Vorlesungsfreie Zeit, um beim Findungsprozess / Expose etc. zu unterstützen.
+- Verpflichtend späterer Beginn der BA-Ausgaben, so dass erst die Workshops stattfinden können und dann die BA geschrieben wird.
+- Kursinhalte als digitalen Content bereit stellen (Videos / Bearbeitungsmaterial / Quizze etc.) und eine individuelle Bearbeitung durch die Studierenden ermöglichen. 
