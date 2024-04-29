@@ -7,3 +7,17 @@ Yo-Pad: https://yopad.eu/p/ws1fm-sose2024-365days
 --------
 
 VL 20240415
+
+--------
+
+VL 20240429
+Forschungsmethoden
+- Interviews
+- Umfragen
+- folgt ...
+
+https://yopad.eu/p/ws1
+
+
+
+--------
