@@ -18,6 +18,10 @@ Forschungsmethoden
 
 https://yopad.eu/p/ws1
 
-
-
 --------
+
+VL 20240506
+- 3. Person deutlich bevorzugt
+- Belege für zentrale Begriffe aus Fachbüchern / Whitepapern
+- Complexity (Wissenschaftliches ChatGPT)
+- 
