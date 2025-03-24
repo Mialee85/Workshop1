@@ -25,3 +25,13 @@ VL 20240506
 - Belege für zentrale Begriffe aus Fachbüchern / Whitepapern
 - Complexity (Wissenschaftliches ChatGPT)
 - 
+
+
+--------------------------------------------
+
+VL 20250324
+
+Gruppe:
+https://yopad.eu/p/ws1d
+
+Im Rahmen der Arbeit wird eine prototypische Entwicklung ...
