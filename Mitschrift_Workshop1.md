@@ -48,5 +48,12 @@ https://yopad.eu/p/ws1-1
 - Datenschutz
 
 
+# Siebenlist
+## VL 20250411
+### DSR (Data Science Research)
 
+## VL 20250425
+### ?
 
+## VL 20250428
+### Datenverwaltungsplan
